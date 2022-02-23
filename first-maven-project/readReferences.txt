@@ -1,0 +1,6 @@
+References used to learn and implement stuff in both of the projects.
+
+https://www.baeldung.com/executable-jar-with-maven
+https://www.baeldung.com/maven-goals-phases
+https://www.baeldung.com/maven-dependency-scopes
+https://www.udemy.com/course/learn-maven-java-dependency-management-in-20-steps/
